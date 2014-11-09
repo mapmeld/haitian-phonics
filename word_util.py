@@ -5,6 +5,10 @@
 vowels = ['an', 'en', 'on', 'a','à','e','è','i','o','ò','u']
 # TODO: plus Y at end of words
 
+def real_len(word):
+  word = word.replace('à', 'a').replace('è', 'e').replace('ò', 'o')
+  return len(word)
+
 def is_vowel(letter):
   return (','.join(vowels).find(letter) > -1)  
 

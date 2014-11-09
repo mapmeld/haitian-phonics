@@ -2,7 +2,7 @@
 # basic_words.py
 
 import operator, unicodedata
-from word_util import get_syllables
+from word_util import get_syllables, real_len
 
 wordlist = open('wordlist.txt', 'r')
 lines = wordlist.read().split("\n")
@@ -17,7 +17,7 @@ for line in lines:
 
   # reduce to only the letters of the word
   word = line.replace(':', '').replace('"', '').replace('!', '').replace('.', '')
-  if len(word) == 1 and word != "w" and word != "m":
+  if real_len(word) == 1 and word != "w" and word != "m":
     continue
   syllables = get_syllables(word)
 
