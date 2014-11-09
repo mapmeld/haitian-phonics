@@ -14,11 +14,11 @@ for line in lines:
 
   # reduce to only the letters of the word
   word = line.replace(':', '').replace('"', '').replace('!', '')
-  print word
+  print(word)
 
   syllables = get_syllables(word)
 
-  print '-'.join(syllables)
+  print('-'.join(syllables))
 
   # only do a* for now
   if word == 'dirab':
