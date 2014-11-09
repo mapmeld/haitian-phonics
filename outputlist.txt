@@ -80,7 +80,7 @@ abitye
 a-bi-tye
 
 abityèlman
-a-bi-tyè-lman
+a-bi-tyèl-man
 
 abiye
 a-bi-ye
@@ -236,7 +236,7 @@ adezyon
 a-de-zyon
 
 adiltè
-a-di-ltè
+a-dil-tè
 
 adisyon
 a-di-syon
@@ -353,7 +353,7 @@ afam
 a-fam
 
 afebli
-a-feb-li
+a-febl-i
 
 afeksyon
 a-fe-ksyon
@@ -380,7 +380,7 @@ afidavi
 a-fi-da-vi
 
 afilyasyon
-a-fi-lya-syon
+a-fil-ya-syon
 
 afimasyon
 a-fi-ma-syon
@@ -488,10 +488,10 @@ agreye
 a-gre-ye
 
 agrikiltè
-a-gri-ki-ltè
+a-gri-kil-tè
 
 agrikilti
-a-gri-ki-lti
+a-gri-kil-ti
 
 agrikòl
 a-gri-kòl
@@ -575,7 +575,7 @@ ak
 ak
 
 akable
-a-kab-le
+a-kabl-e
 
 akademi
 a-ka-de-mi
@@ -587,7 +587,7 @@ akajou
 a-ka-jou
 
 akalmi
-a-ka-lmi
+a-kal-mi
 
 akamil
 a-ka-mil
@@ -779,7 +779,7 @@ aktyèl
 a-ktyèl
 
 aktyèlman
-a-ktyè-lman
+a-ktyèl-man
 
 akwarèl
 a-kwa-rèl
@@ -830,7 +830,7 @@ alafendèfen
 a-la-fen-dè-fen
 
 alafil-endyèn
-a-la-fi-l-en-dyèn
+a-la-fil--en-dyèn
 
 alalejè
 a-la-le-jè
@@ -872,13 +872,13 @@ alawonyay
 a-la-won-yay
 
 albè
-a-lbè
+al-bè
 
 albinòs
-a-lbi-nòs
+al-bi-nòs
 
 albòm
-a-lbòm
+al-bòm
 
 ale
 a-le
@@ -920,7 +920,7 @@ ale-retou
 a-le--re-tou
 
 alven
-a-lven
+al-ven
 
 ale-vini
 a-le--vi-ni
@@ -944,16 +944,16 @@ alevini
 a-le-vi-ni
 
 alfabèt
-a-lfa-bèt
+al-fa-bèt
 
 alfabetik
-a-lfa-be-tik
+al-fa-be-tik
 
 alfabetizasyon
-a-lfa-be-ti-za-syon
+al-fa-be-ti-za-syon
 
 alfabetize
-a-lfa-be-ti-ze
+al-fa-be-ti-ze
 
 alilin
 a-li-lin
@@ -995,22 +995,22 @@ alizyon
 a-li-zyon
 
 aljèb
-a-ljèb
+al-jèb
 
 alkalen
-a-lka-len
+al-ka-len
 
 alkali
-a-lka-li
+al-ka-li
 
 alkasèzè
-a-lka-sè-zè
+al-ka-sè-zè
 
 alkòl
-a-lkòl
+al-kòl
 
 almanak
-a-lma-nak
+al-ma-nak
 
 alonje
 a-lon-je
@@ -1019,37 +1019,37 @@ alontèm
 a-lon-tèm
 
 alsiyis
-a-lsi-yis
+al-si-yis
 
 altè
-a-ltè
+al-tè
 
 altènatè
-a-ltè-na-tè
+al-tè-na-tè
 
 altènatif
-a-ltè-na-tif
+al-tè-na-tif
 
 altè
-a-ltè
+al-tè
 
 altitid
-a-lti-tid
+al-ti-tid
 
 alyaj
-a-lyaj
+al-yaj
 
 alye
-a-lye
+al-ye
 
 alyennkat
-a-lyen-nkat
+al-yen-nkat
 
 amak
 a-mak
 
 amalgam
-a-ma-lgam
+a-mal-gam
 
 amann
 a-mann
@@ -1073,10 +1073,10 @@ amè
 a-mè
 
 amelyorasyon
-a-me-lyo-ra-syon
+a-mel-yo-ra-syon
 
 amelyore
-a-me-lyo-re
+a-mel-yo-re
 
 amerendyen
 a-me-ren-dyen
@@ -1100,7 +1100,7 @@ amikal
 a-mi-kal
 
 amikalman
-a-mi-ka-lman
+a-mi-kal-man
 
 amitye
 a-mi-tye
@@ -1175,7 +1175,7 @@ anachis
 a-na-chis
 
 analfabèt
-a-na-lfa-bèt
+a-nal-fa-bèt
 
 analiz
 a-na-liz
@@ -1274,7 +1274,7 @@ anbisyon
 an-bi-syon
 
 anblèm
-anb-lèm
+anbl-èm
 
 anbobinen
 an-bo-bi-nen
@@ -1373,7 +1373,7 @@ andui
 an-dui
 
 andyable
-an-dyab-le
+an-dyabl-e
 
 andodomeya
 an-do-do-me-ya
@@ -1577,7 +1577,7 @@ ankriye
 an-kri-ye
 
 anmalmakak
-an-ma-lma-kak
+an-mal-ma-kak
 
 anmbègè
 an-mbè-gè
@@ -2108,7 +2108,7 @@ aryen
 a-ryen
 
 asanblaj
-a-sanb-laj
+a-sanbl-aj
 
 asansè
 a-san-sè
@@ -2141,7 +2141,7 @@ asezonman
 a-se-zon-man
 
 asfalte
-a-sfa-lte
+a-sfal-te
 
 asid
 a-sid
@@ -2264,7 +2264,7 @@ ate
 a-te
 
 atelye
-a-te-lye
+a-tel-ye
 
 atèmiyo
 a-tè-mi-yo
@@ -2366,7 +2366,7 @@ avalize
 a-va-li-ze
 
 avalwa
-a-va-lwa
+a-val-wa
 
 avanbra
 a-van-bra
@@ -2639,7 +2639,7 @@ balerin
 ba-le-rin
 
 balkon
-ba-lkon
+bal-kon
 
 balon
 ba-lon
@@ -2981,7 +2981,7 @@ bibit
 bi-bit
 
 bibliyotèk
-bib-li-yo-tèk
+bibl-i-yo-tèk
 
 bibon
 bi-bon
@@ -3065,7 +3065,7 @@ bizon
 bi-zon
 
 blabla
-blab-la
+blabl-a
 
 blag
 blag
@@ -3233,7 +3233,7 @@ boulanjri
 bou-lan-jri
 
 bouldozè
-bou-ldo-zè
+boul-do-zè
 
 boule
 bou-le
@@ -3545,10 +3545,10 @@ bèlantre
 bè-lan-tre
 
 bèlte
-bè-lte
+bèl-te
 
 bèlte
-bè-lte
+bèl-te
 
 bèso
 bè-so
@@ -3719,7 +3719,7 @@ balerin
 ba-le-rin
 
 balkon
-ba-lkon
+bal-kon
 
 balon
 ba-lon
@@ -4061,7 +4061,7 @@ bibit
 bi-bit
 
 bibliyotèk
-bib-li-yo-tèk
+bibl-i-yo-tèk
 
 bibon
 bi-bon
@@ -4145,7 +4145,7 @@ bizon
 bi-zon
 
 blabla
-blab-la
+blabl-a
 
 blag
 blag
@@ -4313,7 +4313,7 @@ boulanjri
 bou-lan-jri
 
 bouldozè
-bou-ldo-zè
+boul-do-zè
 
 boule
 bou-le
@@ -4625,10 +4625,10 @@ bèlantre
 bè-lan-tre
 
 bèlte
-bè-lte
+bèl-te
 
 bèlte
-bè-lte
+bèl-te
 
 bèso
 bè-so
@@ -4766,7 +4766,7 @@ chamo
 cha-mo
 
 chandelye
-chan-de-lye
+chan-del-ye
 
 chandèl
 chan-dèl
@@ -5009,7 +5009,7 @@ chèk
 chèk
 
 chèlbè
-chè-lbè
+chèl-bè
 
 chèsè
 chè-sè
@@ -5171,7 +5171,7 @@ disponib
 di-spo-nib
 
 disponiblite
-di-spo-nib-li-te
+di-spo-nibl-i-te
 
 dispoze
 di-spo-ze
@@ -5216,7 +5216,7 @@ divage
 di-va-ge
 
 divalyeris
-di-va-lye-ris
+di-val-ye-ris
 
 divan
 di-van
@@ -5306,7 +5306,7 @@ dizyèm
 di-zyèm
 
 djablès
-djab-lès
+djabl-ès
 
 djak
 djak
@@ -5336,7 +5336,7 @@ djipopo(dipopo
 dji-po-po-(di-po-po
 
 djòlpave
-djò-lpa-ve
+djòl-pa-ve
 
 dlo
 dlo
@@ -5351,7 +5351,7 @@ doba
 do-ba
 
 doble
-dob-le
+dobl-e
 
 dodin
 do-din
@@ -5489,7 +5489,7 @@ doub
 doub
 
 double
-doub-le
+doubl-e
 
 doubout
 dou-bout
@@ -5606,10 +5606,10 @@ drib
 drib
 
 drible
-drib-le
+dribl-e
 
 driblè
-drib-lè
+dribl-è
 
 dridri
 dri-dri
@@ -5753,7 +5753,7 @@ ebenis
 e-be-nis
 
 eboulman
-e-bou-lman
+e-boul-man
 
 ebre
 e-bre
@@ -6035,13 +6035,13 @@ ekosistèm
 e-ko-si-stèm
 
 ekoulman
-e-kou-lman
+e-koul-man
 
 ekwou
 e-kwou
 
 ekoulman
-e-kou-lman
+e-koul-man
 
 ekoutè
 e-kou-tè
@@ -6311,16 +6311,16 @@ elatriye
 e-la-tri-ye
 
 elvaj
-e-lvaj
+el-vaj
 
 elvè
-e-lvè
+el-vè
 
 elve
-e-lve
+el-ve
 
 elyòm
-e-lyòm
+el-yòm
 
 èm
 èm
@@ -6533,7 +6533,7 @@ enfidelite
 en-fi-de-li-te
 
 enfiltrasyon
-en-fi-ltra-syon
+en-fil-tra-syon
 
 enflitre
 en-fli-tre
@@ -6782,7 +6782,7 @@ ensineratè
 en-si-ne-ra-tè
 
 ensilte
-en-si-lte
+en-sil-te
 
 ensiste
 en-si-ste
@@ -7007,7 +7007,7 @@ eseye
 e-se-ye
 
 eskalye
-e-ska-lye
+e-skal-ye
 
 eskandal
 e-skan-dal
@@ -7112,7 +7112,7 @@ espesyal
 e-spe-syal
 
 espesyalman
-e-spe-sya-lman
+e-spe-syal-man
 
 espiral
 e-spi-ral
@@ -7301,7 +7301,7 @@ etènèl
 e-tè-nèl
 
 etènèlman
-e-tè-nè-lman
+e-tè-nèl-man
 
 etenn
 e-tenn
@@ -7355,7 +7355,7 @@ etranje
 e-tran-je
 
 etwaldemè
-e-twa-lde-mè
+e-twal-de-mè
 
 etwale
 e-twa-le
@@ -7370,7 +7370,7 @@ evaliyasyon
 e-va-li-ya-syon
 
 evalye
-e-va-lye
+e-val-ye
 
 evanjil
 e-van-jil
@@ -7403,7 +7403,7 @@ evolisyon
 e-vo-li-syon
 
 evolye
-e-vo-lye
+e-vol-ye
 
 ewo
 e-wo
@@ -7469,7 +7469,7 @@ fado
 fa-do
 
 fakilte
-fa-ki-lte
+fa-kil-te
 
 faks
 faks
@@ -7496,10 +7496,10 @@ famasyen
 fa-ma-syen
 
 familyal
-fa-mi-lyal
+fa-mil-yal
 
 familyarize
-fa-mi-lya-ri-ze
+fa-mil-ya-ri-ze
 
 famin
 fa-min
@@ -7619,16 +7619,16 @@ fèb
 fèb
 
 fèblan
-fèb-lan
+fèbl-an
 
 fèblantye
-fèb-lan-tye
+fèbl-an-tye
 
 feblès
-feb-lès
+febl-ès
 
 febli
-feb-li
+febl-i
 
 fedatifis
 fe-da-ti-fis
@@ -7856,7 +7856,7 @@ file
 fi-le
 
 filfè
-fi-lfè
+fil-fè
 
 filo
 fi-lo
@@ -8246,7 +8246,7 @@ foumi
 fou-mi
 
 foumilye
-fou-mi-lye
+fou-mil-ye
 
 founèz
 fou-nèz
@@ -8663,10 +8663,10 @@ galope
 ga-lo-pe
 
 galvanize
-ga-lva-ni-ze
+gal-va-ni-ze
 
 galvanomèt
-ga-lva-no-mèt
+gal-va-no-mèt
 
 gam
 gam
@@ -8852,7 +8852,7 @@ gilann
 gi-lann
 
 gildiv
-gi-ldiv
+gil-div
 
 gimè
 gi-mè
@@ -8936,7 +8936,7 @@ global
 glo-bal
 
 globalman
-glo-ba-lman
+glo-bal-man
 
 globil
 glo-bil
@@ -8963,7 +8963,7 @@ glwa
 glwa
 
 goblè
-gob-lè
+gobl-è
 
 gòch
 gòch
@@ -8999,10 +8999,10 @@ gòl
 gòl
 
 gòlgota
-gò-lgo-ta
+gòl-go-ta
 
 gòlkipè
-gò-lki-pè
+gòl-ki-pè
 
 gòm
 gòm
@@ -9419,7 +9419,7 @@ gwevo
 gwe-vo
 
 gwoble
-gwob-le
+gwobl-e
 
 gwo
 gwo
@@ -9602,7 +9602,7 @@ ilegalite
 i-le-ga-li-te
 
 ilegalman
-i-le-ga-lman
+i-le-gal-man
 
 ilejitim
 i-le-ji-tim
@@ -9620,10 +9620,10 @@ ilizyon
 i-li-zyon
 
 ilsè
-i-lsè
+il-sè
 
 iltimatòm
-i-lti-ma-tòm
+il-ti-ma-tòm
 
 im
 im
@@ -9671,13 +9671,13 @@ imilite
 i-mi-li-te
 
 imilyan
-i-mi-lyan
+i-mil-yan
 
 imilyasyon
-i-mi-lya-syon
+i-mil-ya-syon
 
 imilye
-i-mi-lye
+i-mil-ye
 
 iminite
 i-mi-ni-te
@@ -9812,7 +9812,7 @@ iregilarite
 i-re-gi-la-ri-te
 
 iregilye
-i-re-gi-lye
+i-re-gil-ye
 
 iresponsab
 i-re-spon-sab
@@ -9869,7 +9869,7 @@ italik
 i-ta-lik
 
 italyen
-i-ta-lyen
+i-tal-yen
 
 iteris
 i-te-ris
@@ -9941,10 +9941,10 @@ izole
 i-zo-le
 
 izòlman
-i-zò-lman
+i-zòl-man
 
 izolwa
-i-zo-lwa
+i-zol-wa
 
 izosèl
 i-zo-sèl
@@ -9974,7 +9974,7 @@ jagon
 ja-gon
 
 jakmelyen
-ja-kme-lyen
+ja-kmel-yen
 
 jako
 ja-ko
@@ -10109,7 +10109,7 @@ jeneralize
 je-ne-ra-li-ze
 
 jeneralman
-je-ne-ra-lman
+je-ne-ral-man
 
 jenerasyon
 je-ne-ra-syon
@@ -10394,7 +10394,7 @@ jofre
 jo-fre
 
 jolye
-jo-lye
+jol-ye
 
 jon
 jon
@@ -10445,10 +10445,10 @@ jounalis
 jou-na-lis
 
 jounalye
-jou-na-lye
+jou-nal-ye
 
 jounèlman
-jou-nè-lman
+jou-nèl-man
 
 jounen
 jou-nen
@@ -10667,10 +10667,10 @@ kalandriye
 ka-lan-dri-ye
 
 kalbas
-ka-lbas
+kal-bas
 
 kalbasik
-ka-lba-sik
+kal-ba-sik
 
 kale
 ka-le
@@ -10679,7 +10679,7 @@ kalewès
 ka-le-wès
 
 kalfou
-ka-lfou
+kal-fou
 
 kalimèt
 ka-li-mèt
@@ -10688,28 +10688,28 @@ kalinda.
 ka-li-nda.
 
 kalkil
-ka-lkil
+kal-kil
 
 kalkilatris
-ka-lki-la-tris
+kal-ki-la-tris
 
 kalkile
-ka-lki-le
+kal-ki-le
 
 kalma
-ka-lma
+kal-ma
 
 kalman
-ka-lman
+kal-man
 
 kalmason.
-ka-lma-son.
+kal-ma-son.
 
 kalme
-ka-lme
+kal-me
 
 kalmi
-ka-lmi
+kal-mi
 
 kalori
 ka-lo-ri
@@ -10721,19 +10721,19 @@ kalote
 ka-lo-te
 
 kalson
-ka-lson
+kal-son
 
 kalsyòm
-ka-lsyòm
+kal-syòm
 
 kalvè
-ka-lvè
+kal-vè
 
 kamaradri
 ka-ma-ra-dri
 
 kamelya
-ka-me-lya
+ka-mel-ya
 
 kamera
 ka-me-ra
@@ -11156,7 +11156,7 @@ katye
 ka-tye
 
 kavalye
-ka-va-lye
+ka-val-ye
 
 kavite
 ka-vi-te
@@ -11252,13 +11252,13 @@ kèk
 kèk
 
 kèlkeswa
-kè-lke-swa
+kèl-ke-swa
 
 kèlkilanswa
-kè-lki-lan-swa
+kèl-ki-lan-swa
 
 kèlkonk
-kè-lkonk
+kèl-konk
 
 kèmès
 kè-mès
@@ -11351,10 +11351,10 @@ kilakyèl
 ki-la-kyèl
 
 kilbite
-ki-lbi-te
+kil-bi-te
 
 kildesak
-ki-lde-sak
+kil-de-sak
 
 kilè
 ki-lè
@@ -11372,19 +11372,19 @@ kilowatè
 ki-lo-wa-tè
 
 kilpabilite
-ki-lpa-bi-li-te
+kil-pa-bi-li-te
 
 kilt
 kilt
 
 kilti
-ki-lti
+kil-ti
 
 kiltirèl
-ki-lti-rèl
+kil-ti-rèl
 
 kiltivatè
-ki-lti-va-tè
+kil-ti-va-tè
 
 kim
 kim
@@ -11693,7 +11693,7 @@ kòlèt
 kò-lèt
 
 kòlgat
-kò-lgat
+kòl-gat
 
 kolik
 ko-lik
@@ -11705,7 +11705,7 @@ kolizyon
 ko-li-zyon
 
 kòlkrèm
-kò-lkrèm
+kòl-krèm
 
 kòmann
 kò-mann
@@ -11732,10 +11732,10 @@ kolostròm
 ko-lo-stròm
 
 kòlte
-kò-lte
+kòl-te
 
 kolye
-ko-lye
+kol-ye
 
 kòm
 kòm
@@ -11834,7 +11834,7 @@ konbit
 kon-bit
 
 konble
-konb-le
+konbl-e
 
 konbyen
 konb-yen
@@ -12200,10 +12200,10 @@ konsidere
 kon-si-de-re
 
 konsiltasyon
-kon-si-lta-syon
+kon-sil-ta-syon
 
 konsilte
-kon-si-lte
+kon-sil-te
 
 konsiy
 kon-siy
@@ -12644,7 +12644,7 @@ krabinen
 kra-bi-nen
 
 krabmalzòrèy
-krab-ma-lzò-rèy
+krab-mal-zò-rèy
 
 krache
 kra-che
@@ -12740,7 +12740,7 @@ kribich
 kri-bich
 
 krible
-krib-le
+kribl-e
 
 krich
 krich
@@ -13121,10 +13121,10 @@ lalo
 la-lo
 
 lalwa
-la-lwa
+lal-wa
 
 lalwèt
-la-lwèt
+lal-wèt
 
 lamare
 la-ma-re
@@ -13370,7 +13370,7 @@ latous
 la-tous
 
 latranblad
-la-tranb-lad
+la-tranbl-ad
 
 latrin
 la-trin
@@ -14162,10 +14162,10 @@ malatyong
 ma-la-tyong
 
 malchans
-ma-lchans
+mal-chans
 
 maldyòk
-ma-ldyòk
+mal-dyòk
 
 malè
 ma-lè
@@ -14198,31 +14198,31 @@ maleyab
 ma-le-yab
 
 malfèktè
-ma-lfè-ktè
+mal-fè-ktè
 
 malfezan
-ma-lfe-zan
+mal-fe-zan
 
 malfini
-ma-lfi-ni
+mal-fi-ni
 
 malgre
-ma-lgre
+mal-gre
 
 maliy
 ma-liy
 
 malkadi
-ma-lka-di
+mal-ka-di
 
 malman
-ma-lman
+mal-man
 
 malmennen
-ma-lmen-nen
+mal-men-nen
 
 malmouton
-ma-lmou-ton
+mal-mou-ton
 
 malnitrisyon
 ma-lni-tri-syon
@@ -14240,28 +14240,28 @@ malozye
 ma-lo-zye
 
 malpwòp
-ma-lpwòp
+mal-pwòp
 
 malpwòpte
-ma-lpwò-pte
+mal-pwò-pte
 
 malswen
-ma-lswen
+mal-swen
 
 maltaye
-ma-lta-ye
+mal-ta-ye
 
 maltèt
-ma-ltèt
+mal-tèt
 
 maltrete
-ma-ltre-te
+mal-tre-te
 
 malvèyan
-ma-lvè-yan
+mal-vè-yan
 
 malvini
-ma-lvi-ni
+mal-vi-ni
 
 mamifè
 ma-mi-fè
@@ -14351,7 +14351,7 @@ manman
 man-man
 
 manmanlwa
-man-man-lwa
+man-manl-wa
 
 manmzèl
 man-mzèl
@@ -14657,7 +14657,7 @@ mèb
 mèb
 
 meble
-meb-le
+mebl-e
 
 mèch
 mèch
@@ -14975,19 +14975,19 @@ militon
 mi-li-ton
 
 miltiplikasyon.
-mi-lti-pli-ka-syon.
+mil-ti-pli-ka-syon.
 
 miltiplye.
-mi-lti-plye.
+mil-ti-plye.
 
 milya
-mi-lya
+mil-ya
 
 milyèm
-mi-lyèm
+mil-yèm
 
 milyon-ven
-mi-lyon--ven
+mil-yon--ven
 
 mimi
 mi-mi
@@ -15317,7 +15317,7 @@ motive
 mo-ti-ve
 
 motokiltè
-mo-to-ki-ltè
+mo-to-kil-tè
 
 motosiklèt
 mo-to-si-klèt
@@ -15557,7 +15557,7 @@ natirèl
 na-ti-rèl
 
 natirèlman
-na-ti-rè-lman
+na-ti-rèl-man
 
 naval
 na-val
@@ -15671,7 +15671,7 @@ nèt
 nèt
 
 nètalkole
-nè-ta-lko-le
+nè-tal-ko-le
 
 netwaye.
 ne-twa-ye.
@@ -15743,7 +15743,7 @@ nòb
 nòb
 
 noble
-nob-le
+nobl-e
 
 nodozite
 no-do-zi-te
@@ -15758,7 +15758,7 @@ nòmal
 nò-mal
 
 nòmalyen
-nò-ma-lyen
+nò-mal-yen
 
 non.
 non.
@@ -15875,10 +15875,10 @@ objektif
 ob-je-ktif
 
 obligasyon
-ob-li-ga-syon
+obl-i-ga-syon
 
 oblik
-ob-lik
+obl-ik
 
 obsèvasyon
 ob-sè-va-syon
@@ -16034,10 +16034,10 @@ ololoy.
 o-lo-loy.
 
 òltègèt
-ò-ltè-gèt
+òl-tè-gèt
 
 olye
-o-lye
+ol-ye
 
 oma.
 o-ma.
@@ -16133,10 +16133,10 @@ oral
 o-ral
 
 oralman
-o-ra-lman
+o-ral-man
 
 oralti
-o-ra-lti
+o-ral-ti
 
 oran
 o-ran
@@ -16232,7 +16232,7 @@ otè
 o-tè
 
 òtikilti
-ò-ti-ki-lti
+ò-ti-kil-ti
 
 otit.
 o-tit.
@@ -16307,7 +16307,7 @@ ou
 ou
 
 oubli
-oub-li
+oubl-i
 
 oubyen
 oub-yen
@@ -16526,31 +16526,31 @@ palisad
 pa-li-sad
 
 palman
-pa-lman
+pal-man
 
 palmantè
-pa-lman-tè
+pal-man-tè
 
 palmipèd
-pa-lmi-pèd
+pal-mi-pèd
 
 palmis
-pa-lmis
+pal-mis
 
 palmye
-pa-lmye
+pal-mye
 
 paloud
 pa-loud
 
 palpitasyon
-pa-lpi-ta-syon
+pal-pi-ta-syon
 
 palto
-pa-lto
+pal-to
 
 palwa
-pa-lwa
+pal-wa
 
 pàn
 pàn
@@ -16658,7 +16658,7 @@ papa
 pa-pa
 
 papalwa
-pa-pa-lwa
+pa-pal-wa
 
 papay
 pa-pay
@@ -17006,13 +17006,13 @@ pèlentèt
 pè-len-tèt
 
 pelren
-pe-lren
+pel-ren
 
 pelikan
 pe-li-kan
 
 pèlmèl
-pè-lmèl
+pèl-mèl
 
 pelouz
 pe-louz
@@ -17177,7 +17177,7 @@ peripesi.
 pe-ri-pe-si.
 
 peristaltis
-pe-ri-sta-ltis
+pe-ri-stal-tis
 
 peristil
 pe-ri-stil
@@ -17333,16 +17333,16 @@ pibis
 pi-bis
 
 piblik
-pib-lik
+pibl-ik
 
 piblikasyon
-pib-li-ka-syon
+pibl-i-ka-syon
 
 piblisite
-pib-li-si-te
+pibl-i-si-te
 
 pibliye
-pib-li-ye
+pibl-i-ye
 
 pibon.
 pi-bon.
@@ -17426,7 +17426,7 @@ pilòt
 pi-lòt
 
 pilye
-pi-lye
+pil-ye
 
 pim
 pim
@@ -17498,10 +17498,10 @@ pise
 pi-se
 
 pisikiltè
-pi-si-ki-ltè
+pi-si-kil-tè
 
 pisikilti
-pi-si-ki-lti
+pi-si-kil-ti
 
 pisin
 pi-sin
@@ -17927,13 +17927,13 @@ poliyestè
 po-li-ye-stè
 
 polye
-po-lye
+pol-ye
 
 polyestè
-po-lye-stè
+pol-ye-stè
 
 polyo
-po-lyo
+pol-yo
 
 pòm
 pòm
@@ -18302,7 +18302,7 @@ prensipal
 pren-si-pal
 
 prensipalman
-pren-si-pa-lman
+pren-si-pal-man
 
 prentan
 pren-tan
@@ -18578,7 +18578,7 @@ pwobabilite
 pwo-ba-bi-li-te
 
 pwoblèm
-pwob-lèm
+pwobl-èm
 
 pwoche
 pwo-che
@@ -19097,7 +19097,7 @@ ral
 ral
 
 ralba
-ra-lba
+ral-ba
 
 rale
 ra-le
@@ -19121,7 +19121,7 @@ ran
 ran
 
 ranblè
-ranb-lè
+ranbl-è
 
 ranbouse
 ran-bou-se
@@ -19247,10 +19247,10 @@ ras
 ras
 
 rasanble
-ra-sanb-le
+ra-sanbl-e
 
 rasanbleman
-ra-sanb-le-man
+ra-sanbl-e-man
 
 rasi.
 ra-si.
@@ -19322,7 +19322,7 @@ rebele
 re-be-le
 
 rebelyon
-re-be-lyon
+re-bel-yon
 
 rebitan
 re-bi-tan
@@ -19349,7 +19349,7 @@ recho
 re-cho
 
 recholye
-re-cho-lye
+re-chol-ye
 
 rèd
 rèd
@@ -19454,7 +19454,7 @@ rekòlt
 re-kòlt
 
 rekòlte
-re-kò-lte
+re-kòl-te
 
 rekòmandasyon
 re-kò-man-da-syon
@@ -19472,7 +19472,7 @@ rekonpanse
 re-kon-pan-se
 
 rekonsilye
-re-kon-si-lye
+re-kon-sil-ye
 
 rekòt
 re-kòt
@@ -19505,7 +19505,7 @@ relasyon
 re-la-syon
 
 rèldo
-rè-ldo
+rèl-do
 
 rele
 re-le
@@ -19568,7 +19568,7 @@ renonse
 re-non-se
 
 renouvèlman
-re-nou-vè-lman
+re-nou-vèl-man
 
 renouvlab
 re-nou-vlab
@@ -19637,7 +19637,7 @@ repetisyon
 re-pe-ti-syon
 
 repiblik
-re-pib-lik
+re-pibl-ik
 
 repite
 re-pi-te
@@ -19808,10 +19808,10 @@ reta
 re-ta
 
 retabli
-re-tab-li
+re-tabl-i
 
 retablisman
-re-tab-li-sman
+re-tabl-i-sman
 
 retade
 re-ta-de
@@ -19916,10 +19916,10 @@ revolisyon
 re-vo-li-syon
 
 revòlte
-re-vò-lte
+re-vòl-te
 
 revòlvè
-re-vò-lvè
+re-vòl-vè
 
 rèy
 rèy
@@ -19934,7 +19934,7 @@ reyèl
 re-yèl
 
 reyèlman
-re-yè-lman
+re-yèl-man
 
 reyini
 re-yi-ni
@@ -19958,7 +19958,7 @@ rezèvwa
 re-zè-vwa
 
 rezilta
-re-zi-lta
+re-zil-ta
 
 rezin
 re-zin
@@ -20069,10 +20069,10 @@ sab
 sab
 
 sable
-sab-le
+sabl-e
 
 sabliye
-sab-li-ye
+sabl-i-ye
 
 sabò
 sa-bò
@@ -20153,7 +20153,7 @@ salanbe
 sa-lan-be
 
 saldeben
-sa-lde-ben
+sal-de-ben
 
 sale
 sa-le
@@ -20171,7 +20171,7 @@ saliv
 sa-liv
 
 salmanaza
-sa-lma-na-za
+sal-ma-na-za
 
 salon
 sa-lon
@@ -20189,16 +20189,16 @@ salopri
 sa-lo-pri
 
 salte
-sa-lte
+sal-te
 
 saltenbank
-sa-lten-bank
+sal-ten-bank
 
 salyè
-sa-lyè
+sal-yè
 
 salye.
-sa-lye.
+sal-ye.
 
 samdi
 sa-mdi
@@ -20216,10 +20216,10 @@ sanba
 san-ba
 
 sanblab
-sanb-lab
+sanbl-ab
 
 sanble.
-sanb-le.
+sanbl-e.
 
 sandal
 san-dal
@@ -20288,7 +20288,7 @@ sansib
 san-sib
 
 sansiblite
-san-sib-li-te
+san-sibl-i-te
 
 sant
 sant
@@ -20498,7 +20498,7 @@ selina
 se-li-na
 
 sèlman
-sè-lman
+sèl-man
 
 selofàn
 se-lo-fàn
@@ -20507,7 +20507,7 @@ selon
 se-lon
 
 sèlsiyis
-sè-lsi-yis
+sèl-si-yis
 
 sèman
 sè-man
@@ -20711,7 +20711,7 @@ sètifika
 sè-ti-fi-ka
 
 sètoblije
-sè-tob-li-je
+sè-tobl-i-je
 
 setyèm
 se-tyèm
@@ -20783,7 +20783,7 @@ si.
 si.
 
 sibaltèn
-si-ba-ltèn
+si-bal-tèn
 
 sibi
 si-bi
@@ -21020,7 +21020,7 @@ site
 si-te
 
 sitèlman
-si-tè-lman
+si-tèl-man
 
 sitèn
 si-tèn
@@ -21143,7 +21143,7 @@ solanèl
 so-la-nèl
 
 sòlda
-sò-lda
+sòl-da
 
 solè
 so-lè
@@ -21167,7 +21167,7 @@ somè
 so-mè
 
 sòlvan
-sò-lvan
+sòl-van
 
 sòm
 sòm
@@ -21278,10 +21278,10 @@ souliyen
 sou-li-yen
 
 soulve
-sou-lve
+soul-ve
 
 soulye
-sou-lye
+soul-ye
 
 soumaren
 sou-ma-ren
@@ -21473,16 +21473,16 @@ tabdenwi
 tab-den-wi
 
 tablèt
-tab-lèt
+tabl-èt
 
 tabli
-tab-li
+tabl-i
 
 tabliye
-tab-li-ye
+tabl-i-ye
 
 tablo
-tab-lo
+tabl-o
 
 tabòk
 ta-bòk
@@ -21764,7 +21764,7 @@ televizyon.
 te-le-vi-zyon.
 
 tèlman
-tè-lman
+tèl-man
 
 tèminal
 tè-mi-nal
@@ -21884,10 +21884,10 @@ tibin
 ti-bin
 
 tiblès
-tib-lès
+tibl-ès
 
 tiblan
-tib-lan
+tibl-an
 
 tibonm
 ti-bonm
@@ -22214,10 +22214,10 @@ traktè
 tra-ktè
 
 tranble
-tranb-le
+tranbl-e
 
 tranblemanntè
-tranb-le-man-ntè
+tranbl-e-man-ntè
 
 tranch
 tranch
@@ -22298,7 +22298,7 @@ travèse
 tra-vè-se
 
 travopiblik.
-tra-vo-pib-lik.
+tra-vo-pibl-ik.
 
 tray
 tray
@@ -22514,7 +22514,7 @@ twoub
 twoub
 
 twouble
-twoub-le
+twoubl-e
 
 twou-nan-manch
 twou--nan--manch
@@ -22637,7 +22637,7 @@ valiz
 va-liz
 
 valkannen)
-va-lkan-nen)
+val-kan-nen)
 
 valòp
 va-lòp
@@ -22649,7 +22649,7 @@ vals
 vals
 
 valse
-va-lse
+val-se
 
 van
 van
@@ -22760,7 +22760,7 @@ vèbal
 vè-bal
 
 vèble
-vèb-le
+vèbl-e
 
 vègòy
 vè-gòy
@@ -22826,7 +22826,7 @@ vèse
 vè-se
 
 veselye
-ve-se-lye
+ve-sel-ye
 
 vesi
 ve-si
@@ -22940,10 +22940,10 @@ vilaj
 vi-laj
 
 vilbreken
-vi-lbre-ken
+vil-bre-ken
 
 vilgè
-vi-lgè
+vil-gè
 
 vilipande
 vi-li-pan-de
@@ -23045,7 +23045,7 @@ vizib
 vi-zib
 
 viziblite
-vi-zib-li-te
+vi-zibl-i-te
 
 vizit
 vi-zit
@@ -23123,10 +23123,10 @@ volim
 vo-lim
 
 vòlkan
-vò-lkan
+vòl-kan
 
 vòlkanik
-vò-lka-nik
+vòl-ka-nik
 
 volonte
 vo-lon-te
@@ -23138,13 +23138,13 @@ vòlt
 vòlt
 
 vòltaj
-vò-ltaj
+vòl-taj
 
 vòltij
-vò-ltij
+vòl-tij
 
 vòltije
-vò-lti-je
+vòl-ti-je
 
 voras
 vo-ras
@@ -23216,7 +23216,7 @@ vwale
 vwa-le
 
 vwalye
-vwa-lye
+vwal-ye
 
 vwati
 vwa-ti
@@ -23513,7 +23513,7 @@ wou
 wou
 
 woublon
-woub-lon
+woubl-on
 
 wouch
 wouch
@@ -23549,7 +23549,7 @@ woulibè
 wou-li-bè
 
 woulman
-wou-lman
+woul-man
 
 woulo
 wou-lo
@@ -23708,7 +23708,7 @@ z
 z
 
 zabèlbòk
-za-bè-lbòk
+za-bèl-bòk
 
 zaboka
 za-bo-ka
@@ -23897,7 +23897,7 @@ zilofòn
 zi-lo-fòn
 
 ziltik
-zi-ltik
+zil-tik
 
 zip
 zip

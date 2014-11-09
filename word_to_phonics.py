@@ -3,7 +3,12 @@
 
 from word_util import get_syllables
 
-my_word = raw_input("what word?")
+try:
+  input = raw_input
+except NameError:
+  pass
+
+my_word = input("what word?")
 
 lines = [my_word]
 
