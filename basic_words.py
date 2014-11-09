@@ -19,6 +19,8 @@ for consonant in consonants:
   consonant_count[consonant] = 0
 
 nice_consonants = ['t', 'l', 'p', 'k', 's', 'v', 'b', 'd']
+# you can de-activate nice_consonants entirely by not having any of them:
+# nice_consonants = []
 
 for line in lines:
   # skip lines which are symbols or proper nouns or multiple word phrases
@@ -55,11 +57,6 @@ for line in lines:
     if (real_len(word) <= 3):
       # ideal words
 
-      if (word.find('v') > -1):
-        print(word)
-      else:
-        continue
-
       # only print with A and one of the helpful consonants
       if (word.find('i') == 1):
         only_nice_consonants = True
@@ -78,22 +75,23 @@ for line in lines:
 
             if is_a_nice_consonant:
               continue
-            elif word.find(consonant) > -1:
+            elif (word.find(consonant) > -1) and (len(nice_consonants) > 0):
               only_nice_consonants = False
               break
 
         if only_nice_consonants:
-          print(word)      
+          # these are the words that I really want!
+          print(word)
 
-      # collect data on these ideal words
-      for vowel in vowels:
-        if(word.find(vowel) > -1):
-          vowel_count[vowel] = vowel_count[vowel] + 1
+          # collect data on these ideal words
+          for vowel in vowels:
+            if(word.find(vowel) > -1):
+              vowel_count[vowel] = vowel_count[vowel] + 1
 
-print(consonant_count['j'])
+# print sorted consonant count, vowel count, or syllable count
 
-consonant_sort = sorted(consonant_count.items(), key=operator.itemgetter(1))
-print(json.dumps(consonant_sort))
+# consonant_sort = sorted(consonant_count.items(), key=operator.itemgetter(1))
+# print(json.dumps(consonant_sort))
 
 # vowel_sort = sorted(vowel_count.items(), key=operator.itemgetter(1))
 # print(json.dumps(vowel_sort))
