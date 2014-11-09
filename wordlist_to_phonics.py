@@ -10,6 +10,10 @@ wordlist.close()
 output_list = open('outputlist.txt', 'w')
 
 for line in lines:
+  # extra added words: split from comma
+  if (line.find(',') > -1):
+    line = line.split(',')[0].split(' ')[0]
+
   # skip lines which are symbols or proper nouns or multiple word phrases
   if (len(line) == 0) or (line.find('[') > -1) or (line.find(']') > -1) or (line.lower() != line) or (line.find(' ') > -1):
     continue
