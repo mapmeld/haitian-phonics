@@ -3,6 +3,7 @@
 
 # split by vowel
 vowels = ['an', 'en', 'on', 'a','à','e','è','i','o','ò','u']
+consonants = ['b','ch','d','f','g','h','j','k','l','m','n','p','r','s','t','v','w','y','z']
 # TODO: plus Y at end of words
 
 def real_len(word):
