@@ -16,7 +16,9 @@ for line in lines:
     continue
 
   # reduce to only the letters of the word
-  word = line.replace(':', '').replace('"', '').replace('!', '')
+  word = line.replace(':', '').replace('"', '').replace('!', '').replace('.', '')
+  if len(word) == 1 and word != "w" and word != "m":
+    continue
   syllables = get_syllables(word)
 
   for syllable in syllables:
@@ -26,7 +28,7 @@ for line in lines:
       common_syllables[syllable] = 1 
 
   if (len(syllables) == 1):
-    print(word + ": " + str(len(word)))
+    print(word)
 
-syllable_sort = sorted(common_syllables.items(), key=operator.itemgetter(1))
+# syllable_sort = sorted(common_syllables.items(), key=operator.itemgetter(1))
 # print(syllable_sort)
