@@ -197,7 +197,7 @@ achitèk
 a-chi-tèk
 
 achitekti
-a-chi-te-kti
+a-chi-tek-ti
 
 achiv
 a-chiv
@@ -212,13 +212,13 @@ achtè
 a-chtè
 
 adaptab
-a-da-ptab
+a-dap-tab
 
 adaptasyon
-a-da-pta-syon
+a-dap-ta-syon
 
 adapte
-a-da-pte
+a-dap-te
 
 adbòd
 a-dbòd
@@ -248,7 +248,7 @@ adjanikon
 a-dja-ni-kon
 
 adjektif
-a-dje-ktif
+a-djek-tif
 
 adjidan
 a-dji-dan
@@ -299,13 +299,13 @@ adolesans
 a-do-le-sans
 
 adopsyon
-a-do-psyon
+a-dop-syon
 
 adopte
-a-do-pte
+a-dop-te
 
 adoptif
-a-do-ptif
+a-dop-tif
 
 adorab
 a-do-rab
@@ -356,10 +356,10 @@ afebli
 a-febl-i
 
 afeksyon
-a-fe-ksyon
+a-fek-syon
 
 afekte
-a-fe-kte
+a-fek-te
 
 afèmen
 a-fè-men
@@ -608,10 +608,10 @@ akayik
 a-ka-yik
 
 akdekontrisyon
-a-kde-kon-tri-syon
+ak-de-kon-tri-syon
 
 akdenesans
-a-kde-ne-sans
+ak-de-ne-sans
 
 akè
 a-kè
@@ -719,67 +719,67 @@ aks
 aks
 
 aksan
-a-ksan
+ak-san
 
 aksangrav
-a-ksan-grav
+ak-san-grav
 
 aksantegi
-a-ksan-te-gi
+ak-san-te-gi
 
 akselerasyon
-a-kse-le-ra-syon
+ak-se-le-ra-syon
 
 akseleratè
-a-kse-le-ra-tè
+ak-se-le-ra-tè
 
 akselere
-a-kse-le-re
+ak-se-le-re
 
 akseptab
-a-kse-ptab
+ak-sep-tab
 
 aksepte
-a-kse-pte
+ak-sep-te
 
 akseswa
-a-kse-swa
+ak-se-swa
 
 aksidan
-a-ksi-dan
+ak-si-dan
 
 aksivil
-a-ksi-vil
+ak-si-vil
 
 aksyon
-a-ksyon
+ak-syon
 
 aksyonnè
-a-ksyon-nè
+ak-syon-nè
 
 aktè
-a-ktè
+ak-tè
 
 aktif
-a-ktif
+ak-tif
 
 aktivis
-a-kti-vis
+ak-ti-vis
 
 aktivite
-a-kti-vi-te
+ak-ti-vi-te
 
 aktris
-a-ktris
+ak-tris
 
 aktyalite
-a-ktya-li-te
+ak-tya-li-te
 
 aktyèl
-a-ktyèl
+ak-tyèl
 
 aktyèlman
-a-ktyèl-man
+ak-tyèl-man
 
 akwarèl
 a-kwa-rèl
@@ -1199,7 +1199,7 @@ anbake
 an-ba-ke
 
 anbakman
-an-ba-kman
+an-bak-man
 
 anbalaj
 an-ba-laj
@@ -1799,10 +1799,10 @@ antikò
 an-ti-kò
 
 antiseptik
-an-ti-se-ptik
+an-ti-sep-tik
 
 antitoksin
-an-ti-to-ksin
+an-ti-tok-sin
 
 antiy
 an-tiy
@@ -2036,7 +2036,7 @@ apresye
 a-pre-sye
 
 aptitid
-a-pti-tid
+ap-ti-tid
 
 apwentman
 a-pwen-tman
@@ -2126,10 +2126,10 @@ asasinay
 a-sa-si-nay
 
 aseksye
-a-se-ksye
+a-sek-sye
 
 aseptab
-a-se-ptab
+a-sep-tab
 
 asezonay
 a-se-zo-nay
@@ -2336,10 +2336,10 @@ atoufè
 a-tou-fè
 
 atraksyon
-a-tra-ksyon
+a-trak-syon
 
 atraksyon
-a-tra-ksyon
+a-trak-syon
 
 atrap
 a-trap
@@ -2366,7 +2366,7 @@ avalize
 a-va-li-ze
 
 avalwa
-a-val-wa
+a-va-lwa
 
 avanbra
 a-van-bra
@@ -2603,7 +2603,7 @@ bagay
 ba-gay
 
 bakgamon
-ba-kga-mon
+bak-ga-mon
 
 bal
 bal
@@ -2915,7 +2915,7 @@ bekonn
 be-konn
 
 benediksyon
-be-ne-di-ksyon
+be-ne-dik-syon
 
 benefis
 be-ne-fis
@@ -3365,7 +3365,7 @@ brik
 brik
 
 bripbrip
-bri-pbrip
+brip-brip
 
 brital
 bri-tal
@@ -3683,7 +3683,7 @@ bagay
 ba-gay
 
 bakgamon
-ba-kga-mon
+bak-ga-mon
 
 bal
 bal
@@ -3995,7 +3995,7 @@ bekonn
 be-konn
 
 benediksyon
-be-ne-di-ksyon
+be-ne-dik-syon
 
 benefis
 be-ne-fis
@@ -4445,7 +4445,7 @@ brik
 brik
 
 bripbrip
-bri-pbrip
+brip-brip
 
 brital
 bri-tal
@@ -4787,7 +4787,7 @@ chanpou
 chan-pou
 
 chanpyon
-chan-pyon
+chanp-yon
 
 chans
 chans
@@ -4997,7 +4997,7 @@ chèf
 chèf
 
 chèfseksyon
-chè-fse-ksyon
+chè-fsek-syon
 
 chèk
 chèk
@@ -5051,13 +5051,13 @@ dire
 di-re
 
 direksyon
-di-re-ksyon
+di-rek-syon
 
 direktris
-di-re-ktris
+di-rek-tris
 
 dirèkteman
-di-rè-kte-man
+di-rèk-te-man
 
 diri
 di-ri
@@ -5186,7 +5186,7 @@ distenge
 di-sten-ge
 
 distenksyon
-di-sten-ksyon
+di-stenk-syon
 
 distilatè
 di-sti-la-tè
@@ -5195,7 +5195,7 @@ distile
 di-sti-le
 
 distraksyon
-di-stra-ksyon
+di-strak-syon
 
 distribisyon
 di-stri-bi-syon
@@ -5381,22 +5381,22 @@ dokimante
 do-ki-man-te
 
 doktè-dan
-do-ktè--dan
+dok-tè--dan
 
 doktè-fanm
-do-ktè--fanm
+dok-tè--fanm
 
 doktè-timoun
-do-ktè--ti-moun
+dok-tè--ti-moun
 
 doktora
-do-kto-ra
+dok-to-ra
 
 doktorès
-do-kto-rès
+dok-to-rès
 
 doktrin
-do-ktrin
+dok-trin
 
 dola
 do-la
@@ -5828,7 +5828,7 @@ efè
 e-fè
 
 efektif
-e-fe-ktif
+e-fek-tif
 
 efikas
 e-fi-kas
@@ -5873,7 +5873,7 @@ egzat
 e-gzat
 
 egzaktitid
-e-gza-kti-tid
+e-gzak-ti-tid
 
 egzamen
 e-gza-men
@@ -5930,7 +5930,7 @@ eka
 e-ka
 
 ekaliptis
-e-ka-li-ptis
+e-ka-lip-tis
 
 ekaristi
 e-ka-ri-sti
@@ -5963,7 +5963,7 @@ ekipe
 e-ki-pe
 
 ekipman
-e-ki-pman
+e-kip-man
 
 ekirèy
 e-ki-rèy
@@ -5975,7 +5975,7 @@ ekivalan
 e-ki-va-lan
 
 eklanpsi
-e-klan-psi
+e-klanp-si
 
 eklari
 e-kla-ri
@@ -6017,7 +6017,7 @@ ekonomik
 e-ko-no-mik
 
 ekonomikman
-e-ko-no-mi-kman
+e-ko-no-mik-man
 
 ekonomis
 e-ko-no-mis
@@ -6065,109 +6065,109 @@ ekriven
 e-kri-ven
 
 eksè
-e-ksè
+ek-sè
 
 ekselans
-e-kse-lans
+ek-se-lans
 
 eksepsyon
-e-kse-psyon
+ek-sep-syon
 
 eksetera
-e-kse-te-ra
+ek-se-te-ra
 
 eksitan
-e-ksi-tan
+ek-si-tan
 
 eksitasyon
-e-ksi-ta-syon
+ek-si-ta-syon
 
 ekskiz
-e-kskiz
+ek-skiz
 
 ekskresyon
-e-kskre-syon
+ek-skre-syon
 
 ekspè
-e-kspè
+ek-spè
 
 ekspedye
-e-kspe-dye
+ek-spe-dye
 
 eksperyans
-e-kspe-ryans
+ek-spe-ryans
 
 ekspetiz
-e-kspe-tiz
+ek-spe-tiz
 
 eksplikasyon
-e-kspli-ka-syon
+ek-spli-ka-syon
 
 ekspire
-e-kspi-re
+ek-spi-re
 
 eksplikasyon
-e-kspli-ka-syon
+ek-spli-ka-syon
 
 eksplike
-e-kspli-ke
+ek-spli-ke
 
 eksplozyon
-e-ksplo-zyon
+ek-splo-zyon
 
 eksploze
-e-ksplo-ze
+ek-splo-ze
 
 ekplwatasyon
-e-kplwa-ta-syon
+ek-plwa-ta-syon
 
 eksplwate
-e-ksplwa-te
+ek-splwa-te
 
 ekspozan
-e-kspo-zan
+ek-spo-zan
 
 ekstèminen
-e-kstè-mi-nen
+ek-stè-mi-nen
 
 ekta
-e-kta
+ek-ta
 
 ekstaz
-e-kstaz
+ek-staz
 
 ekstèminasyon
-e-kstè-mi-na-syon
+ek-stè-mi-na-syon
 
 ekstèmine
-e-kstè-mi-ne
+ek-stè-mi-ne
 
 eksteryè
-e-kste-ryè
+ek-ste-ryè
 
 ekstèn
-e-kstèn
+ek-stèn
 
 ekstèna
-e-kstè-na
+ek-stè-na
 
 ekstra
-e-kstra
+ek-stra
 
 ekstrèm
-e-kstrèm
+ek-strèm
 
 ekstrèmman
-e-kstrè-mman
+ek-strè-mman
 
 ekstremis
-e-kstre-mis
+ek-stre-mis
 
 ekstremite
-e-kstre-mi-te
+ek-stre-mi-te
 
 ekstraodine
-e-kstrao-di-ne
+ek-strao-di-ne
 
 ekwasyon
 e-kwa-syon
@@ -6179,49 +6179,49 @@ ekwilateral
 e-kwi-la-te-ral
 
 ekzagòn
-e-kza-gòn
+ek-za-gòn
 
 ekzajerasyon
-e-kza-je-ra-syon
+ek-za-je-ra-syon
 
 ekzajere
-e-kza-je-re
+ek-za-je-re
 
 ekzaminasyon
-e-kza-mi-na-syon
+ek-za-mi-na-syon
 
 ekzamen
-e-kza-men
+ek-za-men
 
 ekzaminen
-e-kza-mi-nen
+ek-za-mi-nen
 
 ekzat
-e-kzat
+ek-zat
 
 ekzèse
-e-kzè-se
+ek-zè-se
 
 ekzèsis
-e-kzè-sis
+ek-zè-sis
 
 ekzeyate
-e-kze-ya-te
+ek-ze-ya-te
 
 ekzibisyon
-e-kzi-bi-syon
+ek-zi-bi-syon
 
 ekzil
-e-kzil
+ek-zil
 
 ekzile
-e-kzi-le
+ek-zi-le
 
 ekzòte
-e-kzò-te
+ek-zò-te
 
 ekzotèmik
-e-kzo-tè-mik
+ek-zo-tè-mik
 
 elabore
 e-la-bo-re
@@ -6245,31 +6245,31 @@ elegan
 e-le-gan
 
 eleksyon
-e-le-ksyon
+e-lek-syon
 
 elektè
-e-le-ktè
+e-lek-tè
 
 elektoral
-e-le-kto-ral
+e-lek-to-ral
 
 elektora
-e-le-kto-ra
+e-lek-to-ra
 
 elektrik
-e-le-ktrik
+e-lek-trik
 
 elektrisite
-e-le-ktri-si-te
+e-lek-tri-si-te
 
 elektrisyen
-e-le-ktri-syen
+e-lek-tri-syen
 
 elektwokadyogram
-e-le-ktwo-ka-dyo-gram
+e-lek-two-ka-dyo-gram
 
 elektwon
-e-le-ktwon
+e-lek-twon
 
 eleman
 e-le-man
@@ -6287,7 +6287,7 @@ elevatè
 e-le-va-tè
 
 elikoptè
-e-li-ko-ptè
+e-li-kop-tè
 
 eliminasyon
 e-li-mi-na-syon
@@ -6443,7 +6443,7 @@ endirèk
 en-di-rèk
 
 endirèkteman
-en-di-rè-kte-man
+en-di-rèk-te-man
 
 endisiplin
 en-di-si-plin
@@ -6464,7 +6464,7 @@ endispozisyon
 en-di-spo-zi-syon
 
 endistenkteman
-en-di-sten-kte-man
+en-di-stenk-te-man
 
 endistri
 en-di-stri
@@ -6506,7 +6506,7 @@ enèjik
 e-nè-jik
 
 enèjikman
-e-nè-ji-kman
+e-nè-jik-man
 
 enève
 e-nè-ve
@@ -6515,10 +6515,10 @@ enfantri
 en-fan-tri
 
 enfeksyon
-en-fe-ksyon
+en-fek-syon
 
 enfekte
-en-fe-kte
+en-fek-te
 
 enfènal
 en-fè-nal
@@ -6581,10 +6581,10 @@ enfòmèl
 en-fò-mèl
 
 enfraksyon
-en-fra-ksyon
+en-frak-syon
 
 enfrastikti
-en-fra-sti-kti
+en-fra-stik-ti
 
 enfrayik
 en-fra-yik
@@ -6683,10 +6683,10 @@ enkwayan
 en-kwa-yan
 
 enkyè
-en-kyè
+enk-yè
 
 enkyete.
-en-kye-te.
+enk-ye-te.
 
 enm
 enm
@@ -6773,7 +6773,7 @@ ensekirite
 en-se-ki-ri-te
 
 ensektisid
-en-se-kti-sid
+en-sek-ti-sid
 
 ensilin
 en-si-lin
@@ -6797,7 +6797,7 @@ enskri
 en-skri
 
 enskripsyon
-en-skri-psyon
+en-skrip-syon
 
 ensolan
 en-so-lan
@@ -6806,13 +6806,13 @@ ensolans
 en-so-lans
 
 enspeksyon
-en-spe-ksyon
+en-spek-syon
 
 enspekte
-en-spe-kte
+en-spek-te
 
 enspektè
-en-spe-ktè
+en-spek-tè
 
 ensten
 en-sten
@@ -6830,10 +6830,10 @@ enstitisyonel
 en-sti-ti-syo-nel
 
 enstriktè
-en-stri-ktè
+en-strik-tè
 
 enstriksyon
-en-stri-ksyon
+en-strik-syon
 
 enstriman
 en-stri-man
@@ -6851,7 +6851,7 @@ entèg
 en-tèg
 
 entèjeksyon
-en-tè-je-ksyon
+en-tè-jek-syon
 
 entèl
 en-tèl
@@ -6875,7 +6875,7 @@ enterese
 en-te-re-se
 
 entèseksyon
-en-tè-se-ksyon
+en-tè-sek-syon
 
 entesten
 en-te-sten
@@ -7046,7 +7046,7 @@ eskonbrit
 e-skon-brit
 
 eskòpyon
-e-skò-pyon
+e-skòp-yon
 
 eskout
 e-skout
@@ -7082,10 +7082,10 @@ espekilòm
 e-spe-ki-lòm
 
 espektak
-e-spe-ktak
+e-spek-tak
 
 espektatè
-e-spe-kta-tè
+e-spek-ta-tè
 
 espèm
 e-spèm
@@ -7253,7 +7253,7 @@ estrateji
 e-stra-te-ji
 
 estwopye
-e-stwo-pye
+e-stwop-ye
 
 estyèm
 e-styèm
@@ -7475,16 +7475,16 @@ faks
 faks
 
 faksyon
-fa-ksyon
+fak-syon
 
 faktè
-fa-ktè
+fak-tè
 
 fakti
-fa-kti
+fak-ti
 
 faktori
-fa-kto-ri
+fak-to-ri
 
 fal
 fal
@@ -7838,7 +7838,7 @@ fiks
 fiks
 
 fikse
-fi-kse
+fik-se
 
 fil
 fil
@@ -8063,7 +8063,7 @@ fokòl
 fo-kòl
 
 fòkseli
-fò-kse-li
+fòk-se-li
 
 fòl
 fòl
@@ -8114,13 +8114,13 @@ fonetik
 fo-ne-tik
 
 fonksyon
-fon-ksyon
+fonk-syon
 
 fonksyonè
-fon-ksyo-nè
+fonk-syo-nè
 
 fonksyonman
-fon-ksyon-man
+fonk-syon-man
 
 fonn
 fonn
@@ -8306,13 +8306,13 @@ frakase
 fra-ka-se
 
 fraksyon
-fra-ksyon
+frak-syon
 
 frakti
-fra-kti
+frak-ti
 
 fraktire
-fra-kti-re
+frak-ti-re
 
 franbwaz
 fran-bwaz
@@ -8444,10 +8444,10 @@ frikase
 fri-ka-se
 
 friksyon
-fri-ksyon
+frik-syon
 
 friksyonnen
-fri-ksyon-nen
+frik-syon-nen
 
 frison
 fri-son
@@ -8630,7 +8630,7 @@ gala
 ga-la
 
 galaksi
-ga-la-ksi
+ga-lak-si
 
 galan
 ga-lan
@@ -9479,7 +9479,7 @@ gwoupe
 gwou-pe
 
 gwoupman
-gwou-pman
+gwoup-man
 
 gwouye
 gwou-ye
@@ -9563,7 +9563,7 @@ idravyion
 i-dra-vyion
 
 idwoelektrik
-i-dwoe-le-ktrik
+i-dwoe-lek-trik
 
 idwojèn
 i-dwo-jèn
@@ -9905,7 +9905,7 @@ iwonik
 i-wo-nik
 
 iwonikman
-i-wo-ni-kman
+i-wo-nik-man
 
 iwonize
 i-wo-ni-ze
@@ -9944,7 +9944,7 @@ izòlman
 i-zòl-man
 
 izolwa
-i-zol-wa
+i-zo-lwa
 
 izosèl
 i-zo-sèl
@@ -9974,7 +9974,7 @@ jagon
 ja-gon
 
 jakmelyen
-ja-kmel-yen
+jak-mel-yen
 
 jako
 ja-ko
@@ -10142,7 +10142,7 @@ jeni
 je-ni
 
 jenifleksyon
-je-ni-fle-ksyon
+je-ni-flek-syon
 
 jenital
 je-ni-tal
@@ -10211,7 +10211,7 @@ jete
 je-te
 
 jepye
-je-pye
+jep-ye
 
 jeran
 je-ran
@@ -10337,7 +10337,7 @@ jiri
 ji-ri
 
 jiridiksyon
-ji-ri-di-ksyon
+ji-ri-dik-syon
 
 jiris
 ji-ris
@@ -10652,7 +10652,7 @@ kakòn
 ka-kòn
 
 kaktis
-ka-ktis
+kak-tis
 
 kal
 kal
@@ -10922,10 +10922,10 @@ kaprisye
 ka-pri-sye
 
 kapte
-ka-pte
+kap-te
 
 kaptenn
-ka-ptenn
+kap-tenn
 
 kapwa
 ka-pwa
@@ -10952,10 +10952,10 @@ karako
 ka-ra-ko
 
 karaktè
-ka-ra-ktè
+ka-rak-tè
 
 karakteristik
-ka-ra-kte-ri-stik
+ka-rak-te-ri-stik
 
 karamèl
 ka-ra-mèl
@@ -11246,7 +11246,7 @@ kechat
 ke-chat
 
 kèhèk-kèhèk
-kè-hè-k-kè-hèk
+kè-hèk--kè-hèk
 
 kèk
 kèk
@@ -11348,7 +11348,7 @@ kil
 kil
 
 kilakyèl
-ki-la-kyèl
+ki-lak-yèl
 
 kilbite
 kil-bi-te
@@ -11417,10 +11417,10 @@ kizin
 ki-zin
 
 klaksonn
-kla-ksonn
+klak-sonn
 
 klaksonnen
-kla-kson-nen
+klak-son-nen
 
 klan
 klan
@@ -11489,7 +11489,7 @@ klips
 klips
 
 klipse
-kli-pse
+klip-se
 
 klis
 klis
@@ -11660,10 +11660,10 @@ kòkraz
 kò-kraz
 
 kòksis
-kò-ksis
+kòk-sis
 
 kòktèl
-kò-ktèl
+kòk-tèl
 
 kòl
 kòl
@@ -11684,7 +11684,7 @@ kolèj
 ko-lèj
 
 kolekte
-ko-le-kte
+ko-lek-te
 
 kole-pyese
 ko-le--pye-se
@@ -11813,7 +11813,7 @@ kòmòkòy
 kò-mò-kòy
 
 komokyèl.
-ko-mo-kyèl.
+ko-mok-yèl.
 
 konsi
 kon-si
@@ -11852,7 +11852,7 @@ kondanse
 kon-dan-se
 
 kondiktivite
-kon-di-kti-vi-te
+kon-dik-ti-vi-te
 
 kondisyon
 kon-di-syon
@@ -11873,7 +11873,7 @@ kòne
 kò-ne
 
 koneksyon
-ko-ne-ksyon
+ko-nek-syon
 
 kònen
 kò-nen
@@ -12002,7 +12002,7 @@ konjige
 kon-ji-ge
 
 konjonksyon
-kon-jon-ksyon
+kon-jonk-syon
 
 konkav
 kon-kav
@@ -12182,7 +12182,7 @@ konsèp
 kon-sèp
 
 konsepsyon
-kon-se-psyon
+kon-sep-syon
 
 konsèvasyon
 kon-sè-va-syon
@@ -12233,7 +12233,7 @@ konstitisyon
 kon-sti-ti-syon
 
 konstriksyon
-kon-stri-ksyon
+kon-strik-syon
 
 konstwi
 kon-stwi
@@ -12281,7 +12281,7 @@ kontra
 kon-tra
 
 kontradiksyon
-kon-tra-di-ksyon
+kon-tra-dik-syon
 
 kontrarye
 kon-tra-rye
@@ -12344,7 +12344,7 @@ konpilasyon
 kon-pi-la-syon
 
 kopye
-ko-pye
+kop-ye
 
 koral
 ko-ral
@@ -12365,7 +12365,7 @@ kòrèk
 kò-rèk
 
 kòrèkteman
-kò-rè-kte-man
+kò-rèk-te-man
 
 korespondan
 ko-re-spon-dan
@@ -12518,10 +12518,10 @@ koupon
 kou-pon
 
 koupye
-kou-pye
+koup-ye
 
 koupyon
-kou-pyon
+koup-yon
 
 kouraman
 kou-ra-man
@@ -12764,16 +12764,16 @@ krinyè
 kri-nyè
 
 kriptogam
-kri-pto-gam
+krip-to-gam
 
 kripya
-kri-pya
+krip-ya
 
 krisifi
 kri-si-fi
 
 krisifiksyon
-kri-si-fi-ksyon
+kri-si-fik-syon
 
 krisifye
 kri-si-fye
@@ -12902,7 +12902,7 @@ kwoke
 kwo-ke
 
 kwòkmò
-kwò-kmò
+kwòk-mò
 
 kwokodil
 kwo-ko-dil
@@ -12929,7 +12929,7 @@ kwoup
 kwoup
 
 kwoupyon
-kwou-pyon
+kwoup-yon
 
 kwout
 kwout
@@ -13106,7 +13106,7 @@ lakou
 la-kou
 
 laksatif
-la-ksa-tif
+lak-sa-tif
 
 lakwa
 la-kwa
@@ -13121,10 +13121,10 @@ lalo
 la-lo
 
 lalwa
-lal-wa
+la-lwa
 
 lalwèt
-lal-wèt
+la-lwèt
 
 lamare
 la-ma-re
@@ -13361,7 +13361,7 @@ laterè
 la-te-rè
 
 latèt-opye
-la-tè-t-o-pye
+la-tè-t-op-ye
 
 latitid
 la-ti-tid
@@ -13415,7 +13415,7 @@ lavi
 la-vi
 
 laviktwa
-la-vi-ktwa
+la-vik-twa
 
 lavil
 la-vil
@@ -13505,7 +13505,7 @@ lekontrè
 le-kon-trè
 
 lekti
-le-kti
+lek-ti
 
 lelit
 le-lit
@@ -14123,13 +14123,13 @@ makout
 ma-kout
 
 makpye
-ma-kpye
+mak-pye
 
 makrèl
 ma-krèl
 
 maksilè
-ma-ksi-lè
+mak-si-lè
 
 makwali
 ma-kwa-li
@@ -14171,7 +14171,7 @@ malè
 ma-lè
 
 malediksyon
-ma-le-di-ksyon
+ma-le-dik-syon
 
 malefik
 ma-le-fik
@@ -14198,7 +14198,7 @@ maleyab
 ma-le-yab
 
 malfèktè
-mal-fè-ktè
+mal-fèk-tè
 
 malfezan
 mal-fe-zan
@@ -14243,7 +14243,7 @@ malpwòp
 mal-pwòp
 
 malpwòpte
-mal-pwò-pte
+mal-pwòp-te
 
 malswen
 mal-swen
@@ -14351,7 +14351,7 @@ manman
 man-man
 
 manmanlwa
-man-manl-wa
+man-man-lwa
 
 manmzèl
 man-mzèl
@@ -15269,7 +15269,7 @@ mop
 mop
 
 mòpyon
-mò-pyon
+mòp-yon
 
 moral
 mo-ral
@@ -15521,7 +15521,7 @@ nap
 nap
 
 napkin.
-na-pkin.
+nap-kin.
 
 napwon
 na-pwon
@@ -15632,10 +15632,10 @@ nèj
 nèj
 
 nekta
-ne-kta
+nek-ta
 
 nektarin
-ne-kta-rin
+nek-ta-rin
 
 nemoni
 ne-mo-ni
@@ -15872,7 +15872,7 @@ o-be-zi-te
 ò-bit
 
 objektif
-ob-je-ktif
+ob-jek-tif
 
 obligasyon
 obl-i-ga-syon
@@ -16004,19 +16004,19 @@ okouran
 o-kou-ran
 
 oksidasyon
-o-ksi-da-syon
+ok-si-da-syon
 
 oksijèn
-o-ksi-jèn
+ok-si-jèn
 
 oksijene
-o-ksi-je-ne
+ok-si-je-ne
 
 oktagòn
-o-kta-gòn
+ok-ta-gòn
 
 oktòb
-o-ktòb
+ok-tòb
 
 ola
 o-la
@@ -16115,19 +16115,19 @@ opresyon
 o-pre-syon
 
 opsyon
-o-psyon
+op-syon
 
 optik
-o-ptik
+op-tik
 
 optimis
-o-pti-mis
+op-ti-mis
 
 optometris
-o-pto-me-tris
+op-to-me-tris
 
 opyòm
-o-pyòm
+op-yòm
 
 oral
 o-ral
@@ -16259,7 +16259,7 @@ otomatik
 o-to-ma-tik
 
 otomatikman
-o-to-ma-ti-kman
+o-to-ma-tik-man
 
 otomobil
 o-to-mo-bil
@@ -16277,7 +16277,7 @@ o-to-no-mi
 ò-to-pe-di
 
 otopsi
-o-to-psi
+o-top-si
 
 otorite
 o-to-ri-te
@@ -16550,7 +16550,7 @@ palto
 pal-to
 
 palwa
-pal-wa
+pa-lwa
 
 pàn
 pàn
@@ -16658,7 +16658,7 @@ papa
 pa-pa
 
 papalwa
-pa-pal-wa
+pa-pa-lwa
 
 papay
 pa-pay
@@ -16676,7 +16676,7 @@ papòt
 pa-pòt
 
 papye
-pa-pye
+pap-ye
 
 parabòl
 pa-ra-bòl
@@ -16772,7 +16772,7 @@ pasifik
 pa-si-fik
 
 pasifikman
-pa-si-fi-kman
+pa-si-fik-man
 
 pasifye
 pa-si-fye
@@ -16880,7 +16880,7 @@ patriyotik
 pa-tri-yo-tik
 
 patriotikman
-pa-trio-ti-kman
+pa-trio-tik-man
 
 patwon
 pa-twon
@@ -16970,16 +16970,16 @@ pedyatrik
 pe-dya-trik
 
 pèfeksyon
-pè-fe-ksyon
+pè-fek-syon
 
 pèfeksyone
-pè-fe-ksyo-ne
+pè-fek-syo-ne
 
 pèfeksyonman
-pè-fe-ksyon-man
+pè-fek-syon-man
 
 pèfeksyonis
-pè-fe-ksyo-nis
+pè-fek-syo-nis
 
 pèfid
 pè-fid
@@ -17216,7 +17216,7 @@ pesmekè
 pe-sme-kè
 
 pèseptè
-pè-se-ptè
+pè-sep-tè
 
 pèseverans
 pè-se-ve-rans
@@ -17246,7 +17246,7 @@ pèsonèl
 pè-so-nèl
 
 pèspektiv
-pè-spe-ktiv
+pè-spek-tiv
 
 pestisid
 pe-sti-sid
@@ -17648,7 +17648,7 @@ plap
 plap
 
 plapye
-pla-pye
+plap-ye
 
 plas
 plas
@@ -17756,7 +17756,7 @@ plimo
 pli-mo
 
 plipplip
-pli-pplip
+plip-plip
 
 plis
 plis
@@ -17891,7 +17891,7 @@ poligòn
 po-li-gòn
 
 polikopye
-po-li-ko-pye
+po-li-kop-ye
 
 polinizasyon
 po-li-ni-za-syon
@@ -17951,7 +17951,7 @@ pongongon
 pon-gon-gon
 
 ponktyèl
-pon-ktyèl
+ponk-tyèl
 
 ponmkèt
 pon-mkèt
@@ -17975,7 +17975,7 @@ ponponm
 pon-ponm
 
 ponpye
-pon-pye
+ponp-ye
 
 ponya
 pon-ya
@@ -18005,7 +18005,7 @@ popilis
 po-pi-lis
 
 pòpkòn
-pò-pkòn
+pòp-kòn
 
 poplin
 po-plin
@@ -18014,7 +18014,7 @@ popouri
 po-pou-ri
 
 popyè
-po-pyè
+pop-yè
 
 pore
 po-re
@@ -18233,7 +18233,7 @@ pratike
 pra-ti-ke
 
 pratikman
-pra-ti-kman
+pra-tik-man
 
 pre
 pre
@@ -18254,7 +18254,7 @@ predikatè
 pre-di-ka-tè
 
 prediksyon
-pre-di-ksyon
+pre-dik-syon
 
 prefas
 pre-fas
@@ -18263,7 +18263,7 @@ prefè
 pre-fè
 
 prefekti
-pre-fe-kti
+pre-fek-ti
 
 preferab
 pre-fe-rab
@@ -18359,7 +18359,7 @@ preskri
 pre-skri
 
 preskripsyon
-pre-skri-psyon
+pre-skrip-syon
 
 prestans
 pre-stans
@@ -18587,13 +18587,13 @@ pwodig
 pwo-dig
 
 pwodiksyon
-pwo-di-ksyon
+pwo-dik-syon
 
 pwodiktè
-pwo-di-ktè
+pwo-dik-tè
 
 pwodiktif
-pwo-di-ktif
+pwo-dik-tif
 
 pwofanasyon
 pwo-fa-na-syon
@@ -18677,13 +18677,13 @@ pwojè
 pwo-jè
 
 pwojeksyon
-pwo-je-ksyon
+pwo-jek-syon
 
 pwojekte
-pwo-je-kte
+pwo-jek-te
 
 pwojektè
-pwo-je-ktè
+pwo-jek-tè
 
 pwokire
 pwo-ki-re
@@ -18761,7 +18761,7 @@ pwopriyetè
 pwo-pri-ye-tè
 
 pwòpte
-pwò-pte
+pwòp-te
 
 pwosè
 pwo-sè
@@ -18803,10 +18803,10 @@ pwoteje
 pwo-te-je
 
 pwoteksyon
-pwo-te-ksyon
+pwo-tek-syon
 
 pwotektè
-pwo-te-ktè
+pwo-tek-tè
 
 pwotestan
 pwo-te-stan
@@ -19076,7 +19076,7 @@ rak
 rak
 
 rakbwa
-ra-kbwa
+rak-bwa
 
 rakèt
 ra-kèt
@@ -19238,7 +19238,7 @@ rapousuiv
 ra-pou-suiv
 
 rapyay
-ra-pyay
+rap-yay
 
 rara
 ra-ra
@@ -19373,16 +19373,16 @@ reflèks
 re-flèks
 
 refleksyon
-re-fle-ksyon
+re-flek-syon
 
 reflektè
-re-fle-ktè
+re-flek-tè
 
 reflete
 re-fle-te
 
 refraksyon
-re-fra-ksyon
+re-frak-syon
 
 refwadisman
 re-fwa-di-sman
@@ -19484,19 +19484,19 @@ rekreyasyon
 re-kre-ya-syon
 
 rektang
-re-ktang
+rek-tang
 
 rektè
-re-ktè
+rek-tè
 
 rektifikasyon
-re-kti-fi-ka-syon
+rek-ti-fi-ka-syon
 
 rektifye
-re-kti-fye
+rek-ti-fye
 
 rektòm
-re-ktòm
+rek-tòm
 
 rèl
 rèl
@@ -19682,7 +19682,7 @@ reprimande
 re-pri-man-de
 
 reptil
-re-ptil
+rep-til
 
 repwòch
 re-pwòch
@@ -19691,7 +19691,7 @@ repwoche
 re-pwo-che
 
 repwodiksyon
-re-pwo-di-ksyon
+re-pwo-dik-syon
 
 repwodui
 re-pwo-dui
@@ -19706,7 +19706,7 @@ resansman
 re-san-sman
 
 resepsyon
-re-se-psyon
+re-sep-syon
 
 resesif
 re-se-sif
@@ -19769,10 +19769,10 @@ respè
 re-spè
 
 respektab
-re-spe-ktab
+re-spek-tab
 
 respekte
-re-spe-kte
+re-spek-te
 
 respirasyon
 re-spi-ra-syon
@@ -19799,10 +19799,10 @@ restrenn
 re-strenn
 
 restriksyon
-re-stri-ksyon
+re-strik-syon
 
 restriktirasyon
-re-stri-kti-ra-syon
+re-strik-ti-ra-syon
 
 reta
 re-ta
@@ -20114,7 +20114,7 @@ sakit
 sa-kit
 
 sakpay
-sa-kpay
+sak-pay
 
 sakre
 sa-kre
@@ -20138,7 +20138,7 @@ sakristi
 sa-kri-sti
 
 saksofòn
-sa-kso-fòn
+sak-so-fòn
 
 sal
 sal
@@ -20339,7 +20339,7 @@ sapat
 sa-pat
 
 saranpyon
-sa-ran-pyon
+sa-ranp-yon
 
 satan
 sa-tan
@@ -20351,7 +20351,7 @@ saten
 sa-ten
 
 satisfaksyon
-sa-ti-sfa-ksyon
+sa-ti-sfak-syon
 
 satisfè
 sa-ti-sfè
@@ -20453,10 +20453,10 @@ sèks
 sèks
 
 seksyon
-se-ksyon
+sek-syon
 
 sektè
-se-ktè
+sek-tè
 
 sekwa
 se-kwa
@@ -20594,7 +20594,7 @@ senkòb
 sen-kòb
 
 senkyèm
-sen-kyèm
+senk-yèm
 
 senn
 senn
@@ -20864,13 +20864,13 @@ sikre
 si-kre
 
 siksè
-si-ksè
+sik-sè
 
 sikui
 si-kui
 
 sikyatri
-si-kya-tri
+sik-ya-tri
 
 silabè
 si-la-bè
@@ -21008,7 +21008,7 @@ sistematik
 si-ste-ma-tik
 
 sistematikman
-si-ste-ma-ti-kman
+si-ste-ma-tik-man
 
 sitan
 si-tan
@@ -21332,7 +21332,7 @@ sousou
 sou-sou
 
 soustraksyon
-sou-stra-ksyon
+sou-strak-syon
 
 soustrè
 sou-strè
@@ -21527,10 +21527,10 @@ taks
 taks
 
 taksi
-ta-ksi
+tak-si
 
 takte
-ta-kte
+tak-te
 
 talan
 ta-lan
@@ -21668,7 +21668,7 @@ tapi
 ta-pi
 
 taptap
-ta-ptap
+tap-tap
 
 tas
 tas
@@ -21938,7 +21938,7 @@ tikòk
 ti-kòk
 
 tilapya
-ti-la-pya
+ti-lap-ya
 
 tilenòl
 ti-le-nòl
@@ -22028,7 +22028,7 @@ tòchonnen
 tò-chon-nen
 
 tòktòk
-tò-ktòk
+tòk-tòk
 
 tòl
 tòl
@@ -22211,7 +22211,7 @@ traka
 tra-ka
 
 traktè
-tra-ktè
+trak-tè
 
 tranble
 tranbl-e
@@ -22262,13 +22262,13 @@ trantyèm
 tran-tyèm
 
 tranzaksyon
-tran-za-ksyon
+tran-zak-syon
 
 tranzitif
 tran-zi-tif
 
 trapde
-tra-pde
+trap-de
 
 trape
 tra-pe
@@ -22613,22 +22613,22 @@ vakans
 va-kans
 
 vaksen
-va-ksen
+vak-sen
 
 vaksin
-va-ksin
+vak-sin
 
 vaksinasyon
-va-ksi-na-syon
+vak-si-na-syon
 
 vaksine
-va-ksi-ne
+vak-si-ne
 
 valè
 va-lè
 
 vakyòm
-va-kyòm
+vak-yòm
 
 vale
 va-le
@@ -22736,7 +22736,7 @@ vas
 vas
 
 vasektomi
-va-se-kto-mi
+va-sek-to-mi
 
 vavari
 va-va-ri
@@ -22769,10 +22769,10 @@ vejete
 ve-je-te
 
 vepse)
-ve-pse)
+vep-se)
 
 vektè
-ve-ktè
+vek-tè
 
 velosite
 ve-lo-si-te
@@ -22925,10 +22925,10 @@ viks
 viks
 
 viktim
-vi-ktim
+vik-tim
 
 viktwa
-vi-ktwa
+vik-twa
 
 vil
 vil
@@ -23324,7 +23324,7 @@ wap
 wap
 
 wap-wap
-wa-p-wap
+wap--wap
 
 wat
 wat

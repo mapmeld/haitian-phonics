@@ -60,9 +60,14 @@ def get_syllables(remainder):
             syllables[len(syllables) - 1] = last_syllable + 'l'
             remainder = remainder[1:]
         else:
-          if (len(remainder) > 1) and (is_consonant(remainder[1])):
+          if (len(remainder) > 1) and (is_consonant(remainder[1])) and (remainder[1] != 'w'):
             syllables[len(syllables) - 1] = last_syllable + 'l'
             remainder = remainder[1:]
+
+      elif (first_letter == "k") or (first_letter == "p"):
+        if (len(remainder) > 1) and (is_consonant(remainder[1])) and (remainder[1] != 'l') and (remainder[1] != 'w') and (remainder[1] != 'r'):
+          syllables[len(syllables) - 1] = last_syllable + first_letter
+          remainder = remainder[1:]
   
     syllables.append(remainder[0 : remainder.find(first_vowel) + len(first_vowel)])
     remainder = remainder[remainder.find(first_vowel) + len(first_vowel) : ]
