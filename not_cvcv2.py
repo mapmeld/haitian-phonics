@@ -43,10 +43,11 @@ for line in lines:
       print(word)
       for syllable in syllables:
         if (len(syllable) != 1 + len(first_vowel_in(syllable))):
-          if (syllable in common_syllables.keys()):
-            common_syllables[syllable] = common_syllables[syllable] + 1
+          letter = syllable[len(first_vowel_in(syllable))+1:]
+          if (letter in common_syllables.keys()):
+            common_syllables[letter] = common_syllables[letter] + 1
           else:
-            common_syllables[syllable] = 1
+            common_syllables[letter] = 1
 
 syllable_sort = sorted(common_syllables.items(), key=operator.itemgetter(1), reverse = True)
 for syllable, count in syllable_sort:
