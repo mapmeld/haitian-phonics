@@ -12,8 +12,6 @@ common_syllables = {}
 started_with = {}
 ended_with = {}
 
-not_cvcv = open('not_cvcv.txt', 'w')
-
 for line in lines:
   # skip lines which are symbols or proper nouns or multiple word phrases
   if (len(line) == 0) or (line.find('[') > -1) or (line.find(']') > -1) or (line.lower() != line) or (line.find(' ') > -1):
@@ -28,20 +26,10 @@ for line in lines:
 
   syllables = get_syllables(word)
 
-  # remove words with complex vowels
-  ban_phrases = ['an', 'on', 'en', 'ou', 'ui', 'ch', 'y', 'w']
-  banned = False
-  for ban_phrase in ban_phrases:
-    if(word.find(ban_phrase) > -1):
-      banned = True
-      break
-  #if (banned):
-  #  continue
+  ideal_syllables = []
+  #ideal_syllables = ideal_syllables + ["ra", "rè", "rò", "re", "ri", "ro", "rou", "ran", "ron", "ren"]
+  ideal_syllables = ideal_syllables + ["la", "lè", "lò", "le", "li", "lo", "lou", "lan", "lon", "len"]
+  ideal_syllables = ideal_syllables + ["ta", "tè", "tò", "te", "ti", "to", "tou", "tan", "ton", "ten"]
 
-  # count popularity of syllables used in two-syllable words
-  if (len(syllables) == 2):
-    first_vowel = first_vowel_in(syllables[0])
-    second_vowel = first_vowel_in(syllables[1])
-    if (syllables[0].find(first_vowel) != 1) or (syllables[1].find(second_vowel) != 1) or (len(syllables[0]) != 1 + len(first_vowel)) or (len(syllables[1]) != 1 + len(second_vowel)):
-      print(word)
-      not_cvcv.write(word + "\n")
+  if (len(syllables) == 2 and ((syllables[0] in vowels) or (syllables[0] in ideal_syllables)) and ((syllables[1] in vowels) or syllables[1] in ideal_syllables)) and ((syllables[0] not in vowels) or (syllables[1] not in vowels)):
+    print(word)

@@ -33,8 +33,8 @@ for line in lines:
     if(word.find(ban_phrase) > -1):
       banned = True
       break
-  if (banned):
-    continue
+  #if (banned):
+  #  continue
 
   if (len(syllables) == 2):
     first_vowel = first_vowel_in(syllables[0])

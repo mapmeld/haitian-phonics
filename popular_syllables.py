@@ -33,8 +33,8 @@ for line in lines:
     if(word.find(ban_phrase) > -1):
       banned = True
       break
-  if (banned):
-    continue
+  #if (banned):
+  #  continue
 
   # count popularity of syllables used in two-syllable words
   if (len(syllables) == 2):
