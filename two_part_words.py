@@ -49,8 +49,8 @@ for line in lines:
     if(word.find(ban_phrase) > -1):
       banned = True
       break
-  if (banned):
-    continue
+  #if (banned):
+  #  continue
 
   # word "rabat" becomes syllables ["ra", "bat"]
   # they both have the same vowel, so they go into this if statement
@@ -74,8 +74,8 @@ for line in lines:
     # less strict: beginning or ending matches, including beginning or ending with a vowel
     # "kaba" would be accepted because both syllables end with "a"
     # "kaskad" is rejected because it believes syllables to be "ka-skad"
-    #if (first_syllable[0] == second_syllable[0]) or (first_syllable[1] == second_syllable[1]):
-    #  print(word)
+    if (first_syllable[0] == second_syllable[0]) or (first_syllable[1] == second_syllable[1]):
+      print(word)
 
     # different rule: beginning or ending matches, checking just the letter before or after the vowel
     # doesn't count beginning or ending with a vowel
@@ -84,5 +84,5 @@ for line in lines:
       syllable_0_1 = first_syllable[0][ len(first_syllable[0]) - 1]
       syllable_1_1 = second_syllable[0][ len(second_syllable[0]) - 1 ]
 
-    if (first_syllable[0] != "" and second_syllable[0] != "" and syllable_0_1 == syllable_1_1) or (first_syllable[1] != "" and second_syllable[1] != "" and first_syllable[1][0] == second_syllable[1][0]):
-      print(word)
+    #if (first_syllable[0] != "" and second_syllable[0] != "" and syllable_0_1 == syllable_1_1) or (first_syllable[1] != "" and second_syllable[1] != "" and first_syllable[1][0] == second_syllable[1][0]):
+    #  print(word)

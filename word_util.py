@@ -2,7 +2,11 @@
 # word_util.py
 
 # split by vowel
+<<<<<<< HEAD
 vowels = ['an', 'en', 'on', 'a','à','e','è','i','o','ò','u', 'ou']
+=======
+vowels = ['an', 'en', 'on', 'a','à','e','è','i','ou','o','ò','u']
+>>>>>>> origin/master
 consonants = ['b','ch','d','f','g','h','j','k','l','m','n','p','r','s','t','v','w','y','z']
 # TODO: plus Y at end of words
 
@@ -11,7 +15,7 @@ def real_len(word):
   return len(word)
 
 def is_vowel(letter):
-  return (','.join(vowels).find(letter) > -1)  
+  return (','.join(vowels).find(letter) > -1)
 
 def is_consonant(letter):
   return (is_vowel(letter) == False)
@@ -73,7 +77,7 @@ def get_syllables(remainder):
         if (len(remainder) > 1) and (is_consonant(remainder[1])) and (remainder[1] != 'l') and (remainder[1] != 'w') and (remainder[1] != 'r'):
           syllables[len(syllables) - 1] = last_syllable + first_letter
           remainder = remainder[1:]
-  
+
     syllables.append(remainder[0 : remainder.find(first_vowel) + len(first_vowel)])
     remainder = remainder[remainder.find(first_vowel) + len(first_vowel) : ]
 
