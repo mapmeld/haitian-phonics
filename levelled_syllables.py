@@ -8,7 +8,7 @@ wordlist = open('wordlist.txt', 'r')
 lines = wordlist.read().split("\n")
 wordlist.close()
 
-words_by_level = [[], [], [], [], [], []]
+words_by_level = [[], [], [], [], [], [], [], [], [], [], []]
 
 for line in lines:
   # skip lines which are symbols or proper nouns or multiple word phrases
@@ -31,6 +31,11 @@ for line in lines:
     ['sa', 'si', 'se', 'so', 'sou', 'tou', 'lou'],
     ['ra', 'ri', 're', 'ro', 'rou'],
     ['ba', 'bi', 'be', 'bo', 'bou'],
+    ['ma', 'mi', 'me', 'mo', 'mou', 'men', 'man', 'mon', 'ban', 'bon', 'ben,' 'ran', 'ren', 'ron', 'san', 'sen', 'son', 'lan', 'len', 'lon', 'tan', 'ten', 'ton'],
+    ['ka', 'ki', 'ke', 'ko', 'kou', 'ken', 'kan', 'kon'],
+    ['pa', 'pi', 'pe', 'po', 'pou', 'pen', 'pan', 'pon'],
+    ['da', 'di', 'de', 'do', 'dan', 'don', 'den', 'dou'],
+    ['ga', 'gi', 'ge', 'go', 'gan', 'gon', 'gen', 'gou', 'ò', 'gò', 'dò', 'pò', 'kò', 'mò', 'bò', 'rò', 'sò', 'lò', 'tò', 'è', 'gè', 'dè', 'pè', 'kè', 'mè', 'bè', 'rè', 'sè', 'lè', 'tè',], 
   ]
 
   if (len(syllables) == 1 or len(syllables) == 2):
