@@ -27,7 +27,7 @@ for line in lines:
   syllables = get_syllables(word)
 
   # remove words with complex vowels
-  ban_phrases = ['an', 'on', 'en', 'ou', 'ui', 'ch', 'y', 'w']
+  ban_phrases = []
   banned = False
   for ban_phrase in ban_phrases:
     if(word.find(ban_phrase) > -1):
@@ -39,16 +39,18 @@ for line in lines:
   if (len(syllables) == 2):
     first_vowel = first_vowel_in(syllables[0])
     second_vowel = first_vowel_in(syllables[1])
-    if (syllables[0].find(first_vowel) == 1) and (syllables[1].find(second_vowel) == 1) and ((len(syllables[0]) != 1 + len(first_vowel)) or (len(syllables[1]) != 1 + len(second_vowel))):
-      print(word)
-      for syllable in syllables:
-        if (len(syllable) != 1 + len(first_vowel_in(syllable))):
-          letter = syllable[len(first_vowel_in(syllable))+1:]
-          if (letter in common_syllables.keys()):
-            common_syllables[letter] = common_syllables[letter] + 1
-          else:
-            common_syllables[letter] = 1
+    if (len(syllables[0]) > 2) or (len(syllables[1]) > 2):
+      if (syllables[0].find(first_vowel) != 2) or (syllables[1].find(second_vowel) !=2):
+#if (syllables[0].find(first_vowel) == 1) or (syllables[1].find(second_vowel) == 2) and ((len(syllables[0]) != 1 + len(first_vowel)) or (len(syllables[1]) != 1 + len(second_vowel))):
+        print(word)
+      #for syllable in syllables:
+        #if (len(syllable) != 1 + len(first_vowel_in(syllable))):
+          #letter = syllable[len(first_vowel_in(syllable))+1:]
+          #if (letter in common_syllables.keys()):
+            #common_syllables[letter] = common_syllables[letter] + 1
+          #else:
+            #common_syllables[letter] = 1
 
-syllable_sort = sorted(common_syllables.items(), key=operator.itemgetter(1), reverse = True)
-for syllable, count in syllable_sort:
-  print(syllable + ": " + str(count))
+#syllable_sort = sorted(common_syllables.items(), key=operator.itemgetter(1), reverse = True)
+#for syllable, count in syllable_sort:
+ # print(syllable + ": " + str(count))
