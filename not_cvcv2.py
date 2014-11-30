@@ -41,8 +41,12 @@ for line in lines:
     second_vowel = first_vowel_in(syllables[1])
     if (len(syllables[0]) > 2) or (len(syllables[1]) > 2):
       if (syllables[0].find(first_vowel) != 2) or (syllables[1].find(second_vowel) !=2):
+        if (first_vowel != 'an') and (first_vowel != 'on') and (first_vowel != 'en') and (first_vowel != 'ou'):
+          if (second_vowel != 'an') and (second_vowel != 'on') and (second_vowel != 'en') and (second_vowel != 'ou'):
+            
+            print word
 #if (syllables[0].find(first_vowel) == 1) or (syllables[1].find(second_vowel) == 2) and ((len(syllables[0]) != 1 + len(first_vowel)) or (len(syllables[1]) != 1 + len(second_vowel))):
-        print(word)
+  
       #for syllable in syllables:
         #if (len(syllable) != 1 + len(first_vowel_in(syllable))):
           #letter = syllable[len(first_vowel_in(syllable))+1:]
