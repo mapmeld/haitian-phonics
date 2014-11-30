@@ -26,14 +26,14 @@ for line in lines:
 
   levels = [
     ['a', 'e', 'i', 'o'],
-    ['ra', 'ri', 're', 'ro'],
-    ['sa', 'si', 'se', 'so'],
-    ['rou', 'sou', 'la', 'li', 'le', 'lo', 'lou'],
-    ['ta', 'ti', 'te', 'to', 'tou'],
-    ['ba', 'bi', 'be', 'bo', 'bou']
+    ['ta', 'ti', 'te', 'to'],
+    ['la', 'li', 'le', 'lo',], 
+    ['sa', 'si', 'se', 'so', 'sou', 'tou', 'lou'],
+    ['ra', 'ri', 're', 'ro', 'rou'],
+    ['ba', 'bi', 'be', 'bo', 'bou'],
   ]
 
-  if (len(syllables) == 2):
+  if (len(syllables) == 1 or len(syllables) == 2):
     level_num = 0
     currently_known = []
     for level in levels:
@@ -43,9 +43,14 @@ for line in lines:
         # vowel-only words are obvious
         continue
 
-      if (syllables[0] in currently_known) and (syllables[1] in currently_known):
-        words_by_level[level_num - 1].append(word)
-        break
+      if (len(syllables) == 1):
+        if (syllables[0] in currently_known):
+          words_by_level[level_num -1].append(word)
+          break
+      else: 
+        if (syllables[0] in currently_known) and (syllables[1] in currently_known):
+          words_by_level[level_num - 1].append(word)
+          break
 
 level_num = 0
 for level in words_by_level:

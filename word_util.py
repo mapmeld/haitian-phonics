@@ -2,11 +2,7 @@
 # word_util.py
 
 # split by vowel
-<<<<<<< HEAD
 vowels = ['an', 'en', 'on', 'a','à','e','è','i','o','ò','u', 'ou']
-=======
-vowels = ['an', 'en', 'on', 'a','à','e','è','i','ou','o','ò','u']
->>>>>>> origin/master
 consonants = ['b','ch','d','f','g','h','j','k','l','m','n','p','r','s','t','v','w','y','z']
 # TODO: plus Y at end of words
 
